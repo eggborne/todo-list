@@ -1,0 +1,35 @@
+
+.container {
+  padding-top: 30px;
+}
+.done-button {
+  float:right;
+}
+
+.task-card {
+  opacity: 1;
+  height:100%
+}
+#input-card .card-body {
+  background-color: #ddd;
+  box-shadow: 0px 0px 1px 1px #999;
+}
+#display-area {
+
+}
+
+.normalPri {
+  background-color: none;
+}
+
+.urgentPri {
+  background-color: yellow;
+}
+
+.asapPri {
+  background-color: red;
+}
+
+.backPri {
+  background-color: skyblue;
+}

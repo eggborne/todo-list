@@ -5,17 +5,13 @@
 
 #### By Dr. Charles Bronson
 
+## Specifications
+
 
 ## Description
 -
 
 ## Setup/Installation Requirements
--
-
-## Known Bugs
--
-
-## Support and contact details
 -
 
 ## Technologies Used
